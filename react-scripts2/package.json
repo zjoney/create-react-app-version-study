@@ -1,0 +1,32 @@
+{
+  "name": "react-scripts2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./bin/react-scripts2 build",
+    "start": "node ./bin/react-scripts2 start"
+  },
+  "bin": {
+    "react-scripts2": "./bin/react-scripts2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-react": "^7.12.10",
+    "babel-loader": "^8.2.2",
+    "babel-preset-react-app": "^10.0.0",
+    "chalk": "^4.1.0",
+    "cross-spawn": "^7.0.3",
+    "dotenv": "^8.2.0",
+    "dotenv-expand": "^5.1.0",
+    "fs-extra": "^9.0.1",
+    "html-webpack-plugin": "^4.5.1",
+    "open": "^7.3.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "webpack": "^5.11.1",
+    "webpack-dev-server": "^3.11.1"
+  }
+}

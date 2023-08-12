@@ -2,7 +2,7 @@
 
 ## 1.create-react-app工作流
 
-```
+```js
 create-react-app react-project
 
 Creating a new React app in C:\aprepare\react-project.

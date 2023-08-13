@@ -36,7 +36,7 @@ Inside that directory, you can run several commands:
 
 ### 2.1 安装依赖
 
-```
+```js
 mkdir react-scripts2
 cd react-scripts2
 npm init -y

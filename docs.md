@@ -46,7 +46,7 @@ yarn add cross-spawn fs-extra chalk webpack webpack-dev-server babel-loader babe
 
 ### 2.2 package.json
 
-```
+```js
   "scripts": {
     "build": "node ./bin/react-scripts2 build",
     "start": "node ./bin/react-scripts2 start"

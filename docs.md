@@ -75,7 +75,7 @@ npm run start
 
 bin\react-scripts2.js
 
-```
+```js
 const spawn = require('cross-spawn');
 const args = process.argv.slice(2);
 const script = args[0];

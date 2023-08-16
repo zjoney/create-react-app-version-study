@@ -58,7 +58,7 @@ yarn add cross-spawn fs-extra chalk webpack webpack-dev-server babel-loader babe
 
 ### 2.3 执行命令
 
-```
+```js
 npm run build
 npm run start
 ```

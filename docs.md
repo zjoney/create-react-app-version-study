@@ -90,7 +90,7 @@ spawn.sync(
 
 scripts\build.js
 
-```
+```js
 process.env.NODE_ENV = 'production';
 const chalk = require('chalk');
 const fs = require('fs-extra');

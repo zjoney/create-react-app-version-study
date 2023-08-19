@@ -122,7 +122,7 @@ function copyPublicFolder() {
 
 config\paths.js
 
-```
+```js
 const path = require('path');
 const appDirectory = process.cwd();
 const resolveApp = relativePath => path.resolve(appDirectory, relativePath);

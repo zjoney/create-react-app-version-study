@@ -138,7 +138,7 @@ module.exports = {
 
 config\webpack.config.js
 
-```
+```js
 const paths = require('../config/paths');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 module.exports = function (webpackEnv) {

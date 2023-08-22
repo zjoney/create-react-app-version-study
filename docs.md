@@ -189,7 +189,7 @@ ReactDOM.render(<h1>hello</h1>,document.getElementById('root'));
 
 public\index.html
 
-```
+```js
 <!DOCTYPE html>
 <html lang="en">
 <head>

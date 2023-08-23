@@ -209,7 +209,7 @@ public\index.html
 
 scripts\start.js
 
-```
+```js
 process.env.NODE_ENV = 'development';
 const configFactory = require('../config/webpack.config');
 const createDevServerConfig = require('../config/webpackDevServer.config');

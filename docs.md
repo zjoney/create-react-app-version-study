@@ -239,7 +239,7 @@ function createCompiler({ config, webpack }) {
 
 config\webpackDevServer.config.js
 
-```
+```js
 module.exports = function () {
     return {
         hot: true

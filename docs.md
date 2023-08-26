@@ -255,7 +255,7 @@ module.exports = function () {
 
 .env
 
-```
+```js
 MONGODB_HOST=localhost
 MONGODB_PORT=27017
 MONGODB_DB=test

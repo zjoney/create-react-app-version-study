@@ -262,7 +262,7 @@ MONGODB_DB=test
 MONGODB_URI=mongodb://${MONGODB_HOST}:${MONGODB_PORT}/${MONGODB_DB}
 ```
 
-```
+```js
 const dotenvFile = '.env';
 require('dotenv-expand')(
     require('dotenv').config({

@@ -279,7 +279,7 @@ console.log(process.env.MONGODB_URI);
 
 -   NODE_PATH 就是NODE中用来寻找模块所提供的路径注册环境变量
 
-```
+```js
 let fs = require('fs');
 let path = require('path');
 const appDirectory = fs.realpathSync(process.cwd());

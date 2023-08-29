@@ -301,7 +301,7 @@ console.log(process.env.NODE_PATH);
 
 -   匹配semver版本的正则表达式
 
-```
+```js
 const semverRegex = require('semver-regex');
 console.log(semverRegex().test('v1.0.0'));
 //=> true

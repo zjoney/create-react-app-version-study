@@ -313,7 +313,7 @@ console.log('unicorn 1.0.0 and rainbow 2.1.3'.match(semverRegex()));
 //=> ['1.0.0', '2.1.3']
 ```
 
-```
+```js
 const semver = require('semver')
 console.log(semver.valid('1.2.3')); // '1.2.3'
 console.log(semver.valid('a.b.c')); // null

@@ -329,7 +329,7 @@ console.log(semver.valid(semver.coerce('42.6.7.9.3-alpha'))); // '42.6.7'
 
 -   [globby](https://github.com/sindresorhus/globby)是基于 glob，并进一步得到了增强
 
-```
+```js
 var globby = require('globby');
 (async () => {
     const paths = await globby(['images','photos'],{

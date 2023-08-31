@@ -347,7 +347,7 @@ var globby = require('globby');
     -   Node.js global
     -   Web Worker self
 
-```
+```js
 // 浏览器环境
 console.log(globalThis);    // => Window {...}
 // node.js 环境

@@ -360,7 +360,7 @@ console.log(globalThis);    // => DedicatedWorkerGlobalScope {...}
 
 -   [bfj] Big-Friendly JSON. Asynchronous streaming functions for large JSON data sets.
 
-```
+```js
 const bfj = require('bfj');
 
 bfj.read('big.json')

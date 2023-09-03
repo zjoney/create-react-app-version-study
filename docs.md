@@ -401,7 +401,7 @@ yarn add uuid
 
 -   只要 installConfig.pnp 的值是一个真值且当前版本的 Yarn 支持，PnP 特性就会被启用
 
-```
+```js
 {
   "installConfig": {
     "pnp": true

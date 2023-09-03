@@ -389,7 +389,7 @@ bfj.read('big.json')
 
 ##### 5.7.3.1 启用
 
-```
+```js
 #create-react-app 已经集成了对 PnP 的支持。只需在创建项目时添加 --use-pnp 参数
 npx create-react-app react-project --use-pnp 
 # 在已有项目中开启 PnP

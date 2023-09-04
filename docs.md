@@ -413,7 +413,7 @@ yarn add uuid
 
 uuid.js
 
-```
+```js
 let uuid = require('uuid');
 console.log(uuid.v4());
 ```

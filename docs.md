@@ -423,7 +423,7 @@ console.log(uuid.v4());
 -   由于在开启了 PnP 的项目中不再有 node_modules 目录，所有的依赖引用都必须由 .pnp.js 中的 resolver 处理
 -   因此不论是执行 script 还是用 node 直接执行一个 JS 文件，都必须经由 Yarn 处理
 
-```
+```js
 yarn run build
 yarn node uuid.js
 ```
